@@ -1,0 +1,15 @@
+*{
+   margin:0;
+   padding: 0;
+   box-sizing: border-box;
+}
+/* header  */
+.header__home {
+    padding-top: 15px;
+}
+
+.titolo {
+    display: inline-block;
+    font-size: 36px;
+    vertical-align: top;
+}

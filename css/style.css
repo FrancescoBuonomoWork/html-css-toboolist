@@ -4,12 +4,23 @@
    box-sizing: border-box;
 }
 /* header  */
-.header__home {
+.header-home {
     padding-top: 15px;
 }
 
-.titolo {
+.title {
     display: inline-block;
     font-size: 36px;
     vertical-align: top;
+}
+/* sfondo grigio */
+.gray-background {
+    background-color: lightgray;
+}
+/* contenitore bianco */
+.container{
+    background-color: white;
+    margin: 0 auto;
+    max-width: 980px;
+    margin-top: 40px;
 }

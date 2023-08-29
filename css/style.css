@@ -6,6 +6,7 @@
 /* header  */
 .header-home {
     padding-top: 15px;
+    background-color: white;
 }
 
 .title {
@@ -14,7 +15,8 @@
     vertical-align: top;
 }
 /* sfondo grigio */
-.gray-background {
+
+body {
     background-color: lightgray;
 }
 /* contenitore bianco */
@@ -23,7 +25,15 @@
     margin: 0 auto;
     max-width: 980px;
     margin-top: 40px;
+    padding: 30px; 
 }
+/* Pulsanti */
+.action {
+    margin:20px ;
+    border-bottom: 1px solid lightgray;
+    
+}
+
 /* reset liste  */
 ul,ol { 
     list-style:none;

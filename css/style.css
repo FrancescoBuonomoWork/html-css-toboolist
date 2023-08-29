@@ -24,3 +24,12 @@
     max-width: 980px;
     margin-top: 40px;
 }
+/* reset liste  */
+ul,ol { 
+    list-style:none;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 600;
+}

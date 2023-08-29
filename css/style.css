@@ -20,18 +20,33 @@ body {
     background-color: lightgray;
 }
 /* contenitore bianco */
+.container-barra {
+    background-color: white;
+    margin: 0 auto;
+    max-width: 980px;
+    margin-top: 30px;
+    border-bottom: 2px solid lightgray;
+    border-radius: 5px;
+}
 .container{
     background-color: white;
     margin: 0 auto;
     max-width: 980px;
-    margin-top: 40px;
+   
     padding: 30px; 
     border-radius: 5px;
 }
+
 /* Pulsanti */
 .action {
     margin:20px ;
-    border-bottom: 1px solid lightgray;
+    
+    padding: 15px;
+}
+.button-1{
+
+}
+.button-2{
     
 }
 
